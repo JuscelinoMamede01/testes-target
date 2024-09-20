@@ -1,0 +1,6 @@
+Foi utilizado o json server
+
+entrar na pasta server rodar o comando
+json-server --watch dados.json
+
+só assim para poder consumir a api e rodar o programa
